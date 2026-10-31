@@ -2,7 +2,6 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Wakemakers</title>
     <meta name="description" content="Underwater precision where it matters">
     </head>
 <body>
@@ -24,3 +23,4 @@
 <ol >
 <li>We started by building the rov from PVC pipes and a booklet of instructions</li>
 <img src="https://scontent.fper10-2.fna.fbcdn.net/v/t39.30808-6/633950050_1435370715044712_599750734209050024_n.jpg?stp=dst-jpg_tt6&cstp=mx455x581&ctp=s455x581&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=sLdSM3N83WIQ7kNvwH_oLvz&_nc_oc=AdqiVJpP7tbd35Fk03zPzLtMeNxyqdXErXcrhodmVgq5DKht4pAWQ8Ky9KuFWUjgYRM&_nc_zt=23&_nc_ht=scontent.fper10-2.fna&_nc_gid=6vRFCtacMSDMNJUvC2U92A&_nc_ss=7b289&oh=00_AQTjFEQbDsePGT7Ca_vMKcLkGkeMY6UkSnqeF1RoJZW4nA&oe=6AEB69B6" alt="Us building the Rov from the start.">
+<li>We then had to make sure the ROV was neutrally buoyant</li>
